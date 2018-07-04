@@ -3,6 +3,8 @@
 ![遮蔽廣告](https://github.com/s2339956/TinTaipeiMetro/blob/master/upshotImage/IMG_0003.PNG?raw=true)
 ![遮蔽廣告](https://github.com/s2339956/TinTaipeiMetro/blob/master/upshotImage/IMG_0004.PNG?raw=true)
 
+![原始樣貌](https://github.com/s2339956/TinTaipeiMetro/blob/master/upshotImage/IMG_1461.PNG?raw=true)
+
 ## 備註
 - 工程尚未遮蔽蓋板廣告
 - 需修正相關試圖被遮蔽後 layout 問題
